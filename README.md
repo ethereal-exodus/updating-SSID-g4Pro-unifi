@@ -65,7 +65,7 @@ We'll be using the default **ubnt** user to SSH into our Doorbell. Firstly we'll
 
 ```
 
-# Now that we are in the doorbell we can actually modify the SSID.
+# Adding a new SSID
 
 1.) First let's see what network we have.
 
